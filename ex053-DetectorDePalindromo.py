@@ -1,7 +1,9 @@
 frase = str(input('Digite uma frase: ')).strip().upper()
-inverte = frase[::-1] # inverte a frase
-print('o inverso de {} é {}'.format(frase, inverte))
-if frase == inverte:
+palavras = frase.split() # separa a frase
+junto = ''.join(palavras) # junta a frase sem espaço
+inverte = junto[::-1] # inverte a frase
+print('O inverso de {} é {}'.format(junto, inverte))
+if junto == inverte:
     print('Temos um palíndromo')
 else:
-    print('A frase digitada NÃO é um palíndromo!')
+    print('A frase digitada não é um palíndromo!')
