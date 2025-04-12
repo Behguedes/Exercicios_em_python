@@ -12,4 +12,3 @@ while palpite != computador:
         cont += 1
         palpite = int(input('Tente outra vez: '))
 print('Jogador venceu com {} tentativas. Parabéns!'.format(cont))
-
