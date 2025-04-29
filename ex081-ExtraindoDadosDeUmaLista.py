@@ -1,7 +1,7 @@
 valores = []
 while True:
     valores.append(int(input('Digite um valor: ')))
-    r = str(input('Quer continuar? [S/N] ')).upper()
+    r = str(input('Quer continuar? [S/N] ')).upper().strip()[0]
     if r == 'N':
         break
 print('-=' * 30)
