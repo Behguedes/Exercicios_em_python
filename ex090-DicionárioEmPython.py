@@ -1,6 +1,6 @@
 dicionario = {}
 dicionario['Nome'] = str(input('Nome: '))
-dicionario['Média'] = float(input(f'Média de {dicionario['Nome']}: '))
+dicionario['Média'] = float(input(f'Média de {dicionario["Nome"]}: '))
 print('-=' * 20)
 if dicionario['Média'] >= 7:
     dicionario['Situação'] = 'Aprovado'
