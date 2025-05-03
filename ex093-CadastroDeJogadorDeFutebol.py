@@ -3,8 +3,8 @@ dicionario['nome'] = str(input('Nome do jogador: '))
 partidas = int(input(f'Quantas partidas {dicionario["nome"]} jogou? '))
 gols = []
 for v in range(partidas):
-    gols.append(int(input(f'Quantos gols na partida {v}? ')))
-dicionario['gols'] = gols
+    gols.append(int(input(f'    Quantos gols na partida {v}? ')))
+dicionario['gols'] = gols[:]
 dicionario['total'] = sum(gols)
 print('-=' * 30)
 print(dicionario)
