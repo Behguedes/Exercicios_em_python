@@ -1,4 +1,3 @@
-
 def leiaInt(msg):
     while True:
         try:
