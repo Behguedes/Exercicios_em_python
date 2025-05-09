@@ -1,5 +1,4 @@
-Gustavo;41
 Brenda;22
-Kauã;21
-Christian:3
-Júlia;12
+Kau� ;21
+Chris;3
+Kiara;12
