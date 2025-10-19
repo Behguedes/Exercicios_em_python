@@ -1,5 +1,8 @@
 # 🐍 Python Exercícios
 
+[Acesse aqui +100 Exercícios](https://behnascimentoo.github.io/html-css/exercicios/index.html)
+
+
 Todos os exercícios que fiz em **Python** durante o curso do **Curso em Vídeo**.
 
 ---
@@ -19,6 +22,7 @@ Contém +100 exercicios.
 - Funções e modularização  
 - Listas, tuplas e dicionários  
 - Manipulação de arquivos  
+
 
 ---
 
