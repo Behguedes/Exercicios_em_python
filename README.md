@@ -1,6 +1,6 @@
 # 🐍 Python Exercícios
 
-[Acesse aqui +100 Exercícios](https://behnascimentoo.github.io/html-css/exercicios/index.html)
+[Acesse aqui +100 Exercícios](https://behnascimentoo.github.io/python-exercicios/exercicios)
 
 
 Todos os exercícios que fiz em **Python** durante o curso do **Curso em Vídeo**.
